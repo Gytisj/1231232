@@ -1,6 +1,6 @@
 # Flowly
 
-Flowly – minimalistinė užduočių ir progreso valdymo aplikacija, kuriama naudojant React ir Vite.
+Flowly – minimalistinė užduočių ir progreso valdymo aplikacija, kuriama naudojant React ir  ir Vite.
 
 Projektas orientuotas į paprastą užduočių valdymą, progreso stebėjimą ir modernų, tamsios temos vartotojo interfeisą.
 
